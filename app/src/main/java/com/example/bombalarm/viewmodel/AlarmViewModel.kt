@@ -1,4 +1,4 @@
-package com.example.bombalarm.ui
+package com.example.bombalarm.viewmodel
 
 import androidx.lifecycle.ViewModel
 

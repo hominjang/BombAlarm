@@ -9,6 +9,7 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import com.example.bombalarm.R
 import com.example.bombalarm.databinding.AlarmFragmentBinding
+import com.example.bombalarm.viewmodel.AlarmViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

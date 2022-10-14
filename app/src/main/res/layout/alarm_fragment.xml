@@ -6,7 +6,7 @@
         
         <variable
             name="viewmodel"
-            type="com.example.bombalarm.ui.AlarmViewModel" />
+            type="com.example.bombalarm.viewmodel.AlarmViewModel" />
     </data>
 
     <FrameLayout
